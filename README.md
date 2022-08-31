@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-0x00. Shell, basics project
+0x00. Shell, basics project repo
